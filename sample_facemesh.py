@@ -4,7 +4,7 @@ import copy
 import argparse
 
 import cv2 as cv
-import numpy as np
+import numpy as np 0,
 import mediapipe as mp
 
 from utils import CvFpsCalc
